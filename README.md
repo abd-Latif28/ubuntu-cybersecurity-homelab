@@ -241,3 +241,37 @@ I performed recovery tests without overwriting the working web server.
 Through this project, I gained practical experience in Linux server administration, network troubleshooting, access control, SSH security, firewall management, log analysis, patch management, service monitoring, and backup recovery.
 
 This home lab helped me connect classroom knowledge with hands-on IT and cybersecurity tasks.
+
+## Home Lab Screenshots
+
+The following screenshots document the configurations, security controls, and verification tests I completed during this project.
+
+### 1. UFW Firewall Configuration
+![UFW Firewall Configuration](screenshots/01-ufw-firewall.png)
+
+### 2. SSH Authentication Security
+![SSH Security Configuration](screenshots/02-ssh-security.png)
+
+### 3. NGINX Web Server
+![NGINX Website](screenshots/03-nginx-website.png)
+
+### 4. NGINX Security Headers
+![NGINX Security Headers](screenshots/04-nginx-security-headers.png)
+
+### 5. Fail2ban SSH Protection
+![Fail2ban Protection](screenshots/05-fail2ban-protection.png)
+
+### 6. Linux File Permissions
+![Linux File Permissions](screenshots/06-linux-permissions.png)
+
+### 7. Firewall Security Log Analysis
+![Firewall Security Logs](screenshots/07-firewall-security-logs.png)
+
+### 8. Linux System Monitoring
+![Linux System Monitoring](screenshots/08-system-monitoring.png)
+
+### 9. Linux Kernel Update
+![Linux Kernel Update](screenshots/09-kernel-update.png)
+
+### 10. Backup and Recovery Verification
+![Backup Recovery](screenshots/10-backup-recovery.png)
